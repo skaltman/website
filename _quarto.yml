@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - work.qmd
+
+website:
+  title: "Sara Altman"
+  search: false
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/skaltman
+      - icon: linkedin
+        href: https://www.linkedin.com/in/sarakaltman/
+      - icon: bluesky
+        href: https://bsky.app/profile/sara-altman.bsky.social
+
+brand: _brand.yml
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css

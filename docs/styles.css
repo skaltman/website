@@ -1,0 +1,25 @@
+/* Custom styles for saraaltman.com */
+
+.navbar-brand .navbar-title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 300;
+  font-weight: 505;
+  font-size: 1.3rem;
+  letter-spacing: 0.05em;
+  color: #6a5a8e !important;
+}
+
+.navbar-brand-container {
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+a:hover {
+  color: #2a4f8a !important;
+}
+
+main.content.column-page {
+  grid-column: 1 / -1 !important;
+  max-width: 800px;
+  margin-left: 2.25rem !important;
+}
