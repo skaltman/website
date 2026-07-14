@@ -4,6 +4,8 @@ project:
   render:
     - index.qmd
     - work.qmd
+  resources:
+    - CNAME
 
 website:
   title: "Sara Altman"

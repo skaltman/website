@@ -3,7 +3,7 @@ title: ""
 page-layout: full
 ---
 
-I'm on the AI Core team at [Posit](https://posit.co/), where I work on AI for data science. I also co-author the [Posit AI newsletter](https://posit.co/blog/?post_tag=ai-newsletter) with Simon Couch.
+I'm on the AI Core team at [Posit](https://posit.co/), where I work on AI for data science. I also co-author the [Posit AI newsletter](https://opensource.posit.co/tags/ai-newsletter/) (older versions [here](https://posit.co/blog/)) with Simon Couch.
 
 Previously, I helped build [Posit Academy](https://posit.co/products/enterprise/academy/) and co-taught an introductory data science class at Stanford, where we created [open educational materials](http://dcl-docs.stanford.edu/home/) on data visualization and programming in R.
 
